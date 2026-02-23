@@ -94,3 +94,8 @@ body {
   border: 2px solid #00ff88;
   background: transparent;
 }
+/* about section */
+.about-para {
+  line-height: 20px;
+  font-size: 16px;
+}
