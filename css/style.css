@@ -1,0 +1,63 @@
+* {
+  background-color: #301453;
+  color: white;
+}
+
+.primary-btn {
+  width: 135px;
+  height: 44px;
+  text-align: center;
+  text-decoration: none;
+  padding: 4px;
+  background: linear-gradient(45deg, #f7e93f, #fb09b4, #9100f8);
+}
+
+.logo {
+  background: linear-gradient(
+    48.06deg,
+    #f7e93f 16.53%,
+    #fb09b4 49.82%,
+    #9100f8 81.65%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.navbar li a {
+  color: white;
+}
+
+.navbar a {
+  color: white;
+}
+.banner-section {
+  position: relative;
+}
+.bg-img img {
+  width: 100%;
+  height: 760px;
+}
+.mic-img {
+  width: 350px;
+  height: 350px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  background: linear-gradient(45deg, #f7e93f, #fb09b4, #9100f8);
+}
+.mic-img img {
+  width: 120px;
+  height: 175px;
+  background: transparent;
+}
+.badge {
+  position: absolute;
+  top: 5px;
+  right: 50px;
+  width: 75px;
+  height: 36px;
+  background-color: #00ff88;
+  font-size: 18px !important;
+}
